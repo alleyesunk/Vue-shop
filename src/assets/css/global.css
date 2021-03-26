@@ -5,3 +5,17 @@ html,body,#app{
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
 }
+
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+.el-table{
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.el-pagination{
+    margin-top: 15px;
+}
