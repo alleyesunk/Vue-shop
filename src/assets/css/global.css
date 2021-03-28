@@ -4,6 +4,7 @@ html,body,#app{
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
+    
 }
 
 .el-breadcrumb{
@@ -15,6 +16,7 @@ html,body,#app{
     margin-top: 15px;
     font-size: 12px;
 }
+
 
 .el-pagination{
     margin-top: 15px;
